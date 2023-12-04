@@ -1,1 +1,2 @@
 - Aprender conceptos basicos de la programacion
+- Aprender las herramientas para poder desarrollar paginas web y aprender a leer codigo
