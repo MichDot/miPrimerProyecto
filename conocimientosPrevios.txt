@@ -1,1 +1,2 @@
 - He hecho un curso hace años de HTML y CSS
+- También hace años hice un curso de Unix
